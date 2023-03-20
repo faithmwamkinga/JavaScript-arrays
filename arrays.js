@@ -38,8 +38,8 @@ console.log(newFruits);
 If the word is present, console it else console "the search word was not found"
 let arr5 = ["the", "way", "x", 4, 23]; */
 
- let arr5 = ["the", "way", "x", 4, 23];
-if()
+//  let arr5 = ["the", "way", "x", 4, 23];
+// if()
 
 /*Write a JS script to sort the following string
 let word = "lufituaeb" */
